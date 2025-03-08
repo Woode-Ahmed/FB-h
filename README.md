@@ -1,5 +1,8 @@
 # FB-h
-Cybersecurity for information gathering.....!!
+__Cybersecurity for information gathering.....!!__
+
+
+**FB-InfoGather is a cybersecurity tool designed for ethically gathering information about Facebook accounts. It helps extract public data such as username, account ID, profile pictures, friends, and groups using OSINT (Open-Source Intelligence) techniques. The tool is intended for cybersecurity researchers and penetration testers, with a strong emphasis on legal and ethical use only**
 
 
 
